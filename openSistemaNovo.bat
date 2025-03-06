@@ -1,0 +1,1 @@
+start \\server\ENGENHARIA\HOME\D_XNC\p_p\prog\SISTEMA_NOVO

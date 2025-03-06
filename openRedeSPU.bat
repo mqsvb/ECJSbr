@@ -1,0 +1,1 @@
+start \\Server\index\Projetos\Programas\Edgecam

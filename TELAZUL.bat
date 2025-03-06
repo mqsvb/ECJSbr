@@ -1,0 +1,1 @@
+start C:\EC_VIECELLI\TELAAZUL.rdp
